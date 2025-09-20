@@ -2,7 +2,8 @@ name: Deploy Docusaurus to GitHub Pages
 
 on:
   push:
-    branches: [main] # main branch'e push olduğunda çalışır
+    branches: [main]
+  workflow_dispatch:
 
 jobs:
   deploy:
