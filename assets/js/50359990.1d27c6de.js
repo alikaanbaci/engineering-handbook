@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksoftware_engineering=self.webpackChunksoftware_engineering||[]).push([[7153],{572:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"distributed-systems"}')}}]);
